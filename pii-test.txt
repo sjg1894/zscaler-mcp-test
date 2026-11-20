@@ -1,5 +1,6 @@
 Zscaler MCP PII Security Test
 
-Name: Test User
-Email: test.user@example.com
-Phone: 202-555-0147
+Test Credit Card Number: 4111 1111 1111 1111
+Card Type: Visa
+Cardholder: TEST USER
+Expiration: 12/2030
